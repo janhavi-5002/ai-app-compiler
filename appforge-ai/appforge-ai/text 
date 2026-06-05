@@ -1,4 +1,0 @@
-python3 main.py
-open generated_app/architecture_graph.png
-http://127.0.0.1:8000/docs
-Build CRM with login contacts dashboard analytics

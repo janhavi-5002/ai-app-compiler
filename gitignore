@@ -1,0 +1,6 @@
+.venv/
+venv/
+**pycache**/
+*.pyc
+.DS_Store
+generated_app/**pycache**/
